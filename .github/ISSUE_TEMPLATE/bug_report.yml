@@ -1,0 +1,63 @@
+name: 🐞 Bug report
+description: Something in AtlasDraw isn't working as expected
+title: "[Bug]: "
+labels: ["type:bug", "status:triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve **AtlasDraw**! Please fill in as much as you can — it helps a lot.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the bug. What did you expect, and what happened instead?
+      placeholder: When I open a .drawio file with curved connectors, the arrows lose their waypoints...
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: How can we make the bug happen?
+      placeholder: |
+        1. Open a new sketch (Ctrl+N)
+        2. Draw an arrow between two shapes
+        3. ...
+    validations:
+      required: false
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots or files
+      description: Drag-and-drop screenshots here. If the bug needs a specific drawing, attach the .atlasdraw, .excalidraw or .drawio file (zip it if GitHub won't accept it) — only share files without private content.
+    validations:
+      required: false
+  - type: dropdown
+    id: file-format
+    attributes:
+      label: File format involved
+      multiple: true
+      options:
+        - .atlasdraw
+        - .excalidraw
+        - .drawio
+        - PNG / SVG export
+        - Not file-related
+    validations:
+      required: false
+  - type: input
+    id: app-version
+    attributes:
+      label: AtlasDraw version
+      description: Find it in Settings → About. (e.g. 1.0.0)
+      placeholder: "1.0.0"
+    validations:
+      required: false
+  - type: input
+    id: windows-version
+    attributes:
+      label: Windows version
+      placeholder: "Windows 11 24H2"
+    validations:
+      required: false

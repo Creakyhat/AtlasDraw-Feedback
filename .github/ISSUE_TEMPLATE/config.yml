@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💡 Feature request / idea (vote & discuss)
+    url: https://github.com/Creakyhat/AtlasDraw-Feedback/discussions/categories/ideas
+    about: Suggest a feature or upvote existing ideas. Most-wanted ideas get built first!
+  - name: 🙋 Question / help
+    url: https://github.com/Creakyhat/AtlasDraw-Feedback/discussions/categories/q-a
+    about: Ask a question or get help using AtlasDraw.
+  - name: ✉️ Private support (email)
+    url: mailto:support@creakyhat.co.uk
+    about: For purchase, licence, or anything you'd rather not post publicly.

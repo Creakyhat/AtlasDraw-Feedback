@@ -50,14 +50,23 @@ body:
     id: app-version
     attributes:
       label: AtlasDraw version
-      description: Find it in Settings → About. (e.g. 1.0.0)
+      description: "Windows: Help → About. Mac: AtlasDraw → About AtlasDraw. (e.g. 1.0.0)"
       placeholder: "1.0.0"
     validations:
       required: false
-  - type: input
-    id: windows-version
+  - type: dropdown
+    id: platform
     attributes:
-      label: Windows version
-      placeholder: "Windows 11 24H2"
+      label: Platform
+      options:
+        - Windows
+        - Mac
+    validations:
+      required: true
+  - type: input
+    id: os-version
+    attributes:
+      label: OS version
+      placeholder: "Windows 11 24H2, or macOS 26.1"
     validations:
       required: false

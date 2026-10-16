@@ -1,6 +1,6 @@
 # AtlasDraw — Feedback & Issue Tracker
 
-Welcome! This is the public tracker for **[AtlasDraw](https://atlasdraw.com)**, the native whiteboard for Windows. It's where you can report bugs, request features, and vote on what gets built next.
+Welcome! This is the public tracker for **[AtlasDraw](https://atlasdraw.com)**, the native whiteboard for Windows and Mac. It's where you can report bugs, request features, and vote on what gets built next.
 
 > 📌 This repo contains **no source code** — AtlasDraw is a commercial app. It's purely for feedback so we can build it in the open with you.
 

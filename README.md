@@ -11,7 +11,7 @@ Welcome! This is the public tracker for **[AtlasDraw](https://atlasdraw.com)**, 
 | 🐞 **Report a bug** | [New issue → Bug report](https://github.com/Creakyhat/AtlasDraw-Feedback/issues/new?template=bug_report.yml) |
 | 💡 **Request a feature / vote on ideas** | [Discussions → Ideas](https://github.com/Creakyhat/AtlasDraw-Feedback/discussions/categories/ideas) |
 | 🙋 **Ask a question** | [Discussions → Q&A](https://github.com/Creakyhat/AtlasDraw-Feedback/discussions/categories/q-a) |
-| ✉️ **Private / purchase issue** | Email [support@creakyhat.co.uk](mailto:support@creakyhat.co.uk) |
+| ✉️ **Private / purchase issue** | Email [support@atlasdraw.com](mailto:support@atlasdraw.com) |
 
 ## Voting on features
 
@@ -23,7 +23,7 @@ Track what's planned, in progress, and shipped on the [project board](https://gi
 
 ## A note on privacy
 
-Anything you post here is **public**. For anything sensitive (licence keys, purchase details, personal info), please email [support@creakyhat.co.uk](mailto:support@creakyhat.co.uk) instead. If a bug involves a drawing, attach a cut-down copy that doesn't contain anything private.
+Anything you post here is **public**. For anything sensitive (licence keys, purchase details, personal info), please email [support@atlasdraw.com](mailto:support@atlasdraw.com) instead. If a bug involves a drawing, attach a cut-down copy that doesn't contain anything private.
 
 ---
 
